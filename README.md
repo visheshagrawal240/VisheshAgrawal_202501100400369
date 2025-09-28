@@ -20,8 +20,10 @@ Main.html       # The main landing page of the travel guide.
 Dehradun.html   # A dedicated page for information about Dehradun.
 
 Mussoorie.html  # A dedicated page for information about Mussoorie.
-└── /Images/        # A folder containing all the local images used.
-    Scenery.jpg
-    flight.jpg
-    dehradun.jpg
+
+└── /Images/ # A folder containing all the local images used.
+
+    Scenery.jpg,
+    flight.jpg,
+    dehradun.jpg,
     Mussoorie.jpg.
