@@ -15,11 +15,13 @@ Data Tables: A clean, bordered table displays different travel packages, duratio
 Hyperlinks: Includes internal links for page navigation and external links that open in a new tab for more information.
 Contact Information: Provides contact details, including a clickable email address.
 
-├── Main.html       # The main landing page of the travel guide.
-├── Dehradun.html   # A dedicated page for information about Dehradun.
-├── Mussoorie.html  # A dedicated page for information about Mussoorie.
+Main.html       # The main landing page of the travel guide.
+
+Dehradun.html   # A dedicated page for information about Dehradun.
+
+Mussoorie.html  # A dedicated page for information about Mussoorie.
 └── /Images/        # A folder containing all the local images used.
-    ├── Scenery.jpg
-    ├── flight.jpg
-    ├── dehradun.jpg
-    └── Mussoorie.jpg.
+    Scenery.jpg
+    flight.jpg
+    dehradun.jpg
+    Mussoorie.jpg.
